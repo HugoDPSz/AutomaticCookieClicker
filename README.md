@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🖱️ Automatic Cookie Clicker (Selenium)
 
 Este projeto é uma automação simples do jogo [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/) usando **Python** e **Selenium WebDriver**. Foi desenvolvido como exercício prático para explorar e testar diferentes funcionalidades do Selenium, como interação com elementos da página, espera explícita e lógica de automação de cliques e compras.
@@ -51,3 +52,6 @@ Durante o desenvolvimento, foram testados e aplicados:
 - Localização de elementos por `ID` e `XPath`
 - Conversão e manipulação de strings numéricas
 - Estrutura de repetição com lógica de compra
+=======
+# AutomaticCookieClicker
+>>>>>>> 5938cd7d2145c4183aa4ae752a098c1f7c9e64b3
